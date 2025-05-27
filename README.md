@@ -24,11 +24,11 @@ Startups: Collaborating with startups to build scalable, user-friendly frontend 
 
 You can share your professional contact details or online presence:
 
-Portfolio Website: Link to your portfolio showcasing your projects and skills.
-GitHub: Share your GitHub profile to highlight your contributions and projects.
-LinkedIn: Connect with others in the industry and showcase your experience.
-Email: Provide a professional email address for collaborations.
-Social Media: Share your Twitter, Dev.to, or Medium profiles if you’re active in the tech community.
+Portfolio Website: https://evolvesinc.org/.
+GitHub: github.com/paul-masingah/
+Email: Paulgreat164@gmail.com
+Social Media: daily.dev: @paulmasingah 
+builder.io :@paulmasingah
 
 
 
