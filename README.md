@@ -1,67 +1,52 @@
-- 👋 Hi, I’m @Paul-masingah
-- 👀 I’m interested in ...As an advanced frontend developer, you’re likely diving into cutting-edge technologies and frameworks to stay ahead in the field. Here are some areas you might be exploring:
+<h1 align="center">Hi, I'm Paul Great 👋</h1>
+<h3 align="center">Full-Stack Developer & AI Practitioner — building products from Abuja, Nigeria 🇳🇬</h3>
 
-- 🌱 I’m currently learning ...
-Advanced JavaScript/TypeScript: Deepening your understanding of modern JS/TS features, design patterns, and performance optimization.
-Frontend Frameworks: Mastering React, Vue, or Angular with a focus on advanced concepts like state management (Redux, Zustand, Pinia), server-side rendering (Next.js, Nuxt.js), and progressive web apps (PWAs).
-Web Performance: Learning techniques like lazy loading, code splitting, and optimizing Core Web Vitals (LCP, FID, CLS).
-Accessibility (a11y): Ensuring your applications are inclusive and meet WCAG standards.
-Testing: Writing unit, integration, and end-to-end tests using tools like Jest, Cypress, or Playwright.
-Animation and UI/UX: Exploring libraries like Framer Motion, GSAP, or Three.js for immersive user experiences.
-Backend Integration: Learning GraphQL, REST API best practices, and tools like tRPC or Apollo Client.
-DevOps for Frontend: Setting up CI/CD pipelines, using tools like Vercel, Netlify, or GitHub Actions.
+<p align="center">
+  <a href="https://ctrlin.com/in/Paul_Great"><img src="https://img.shields.io/badge/Portfolio-ctrlin.com-0A66C2?style=flat-square" /></a>
+  <a href="mailto:paulgreat164@gmail.com"><img src="https://img.shields.io/badge/Email-paulgreat164%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/paul-abimbola"><img src="https://img.shields.io/badge/LinkedIn-paul--abimbola-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
-- 💞️ I’m looking to collaborate on ...As an advanced developer, you’re likely interested in high-impact, innovative projects. Here are some ideas:
-Open Source Contributions: Contributing to popular frontend libraries or frameworks.
-UI Component Libraries: Building reusable, customizable, and accessible component libraries.
-Web3 Projects: Developing decentralized applications (dApps) with Ethereum, Solana, or other blockchain technologies.
-AI-Powered Frontend Tools: Creating tools that leverage AI for better user experiences (e.g., chatbots, recommendation engines).
-Educational Content: Building tutorials, courses, or blogs to share your expertise with the community.
-Startups: Collaborating with startups to build scalable, user-friendly frontend solutions.
+---
 
- 
-- 📫 How to reach me ..
+### 🚀 What I do
 
-You can share your professional contact details or online presence:
+I'm currently the **Founding Frontend Developer at Hosté Technology**, a Nigerian premium event staffing marketplace, where I build the platform from the ground up. I'm also the **Frontend Developer & Bootcamp Lead at Appclick Academy** in Abuja, where I mentor developers coming up through the program.
 
-Portfolio Website: https://secureforge.huntyourtribe.com/
-GitHub: github.com/paul-masingah/
-Email: Paulgreat164@gmail.com
-Social Media: daily.dev: @paulmasingah 
-builder.io :@paulmasingah
+I work across the stack — React/Next.js/TypeScript on the frontend, Node.js/Supabase/Firebase/PostgreSQL on the backend — and I spend a lot of time wiring LLMs (Claude, Gemini, OpenRouter, Ollama) into real products rather than demos.
 
+### 🛠️ Tech I reach for
 
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui
+**Backend:** Node.js · Supabase · Firebase · PostgreSQL · MongoDB
+**AI/LLM:** Claude · Gemini · OpenRouter · Ollama
+**Tooling:** Cursor · Bolt · Lovable · v0 · Docker · Vercel
 
-😄 Pronouns
+### 🧩 Some things I've built
 
-Share your preferred pronouns (e.g., he/him, she/her, they/them) to foster inclusivity in your collaborations.
+- **[CupidAI / Matchbox](https://love-map-connection.vercel.app/)** — AI matchmaking platform analyzing 50+ personality traits with neural compatibility scoring
+- **GlowCart** — full-stack e-commerce beauty platform (Next.js, Stripe, Payload CMS)
+- **[Golf Charity Draw Platform](https://my-new-project-six-chi.vercel.app)** — subscription-driven golf tracking + charity fundraising (Bun, React 19, Stripe)
+- **TrustPay Shield** — real-time fraud prevention for mobile money using Nokia CAMARA APIs, built for the Africa Ignite Hackathon
+- **Aurora Mobile Health Companion** — offline-first Android health app for low-connectivity Nigerian communities
+- **[LeadDesk Mini](https://leaddesk-chi.vercel.app)** — lead-capture micro-CRM (Next.js, Supabase)
 
- 
+More on my [portfolio](https://ctrlin.com/in/Paul_Great) →
 
-⚡ Fun fact
+### 🌱 Currently exploring
 
-Here’s a fun fact to showcase your personality:
+Deeper LLM-orchestration patterns, offline-first mobile architectures for low-connectivity contexts, and shipping AI features that actually hold up in production — not just in a demo.
 
-Did you know the first website ever created is still online? Check it out:https://evolvesinc.org/
-Or, share something personal like: “I once built a fully functional app in 48 hours during a hackathon!”
+### 💞 Open to collaborating on
 
- 
+AI-powered tools, fintech/mobile-money products, and anything that needs a frontend developer who's comfortable owning a build end-to-end.
 
-Example Summary
+### 📫 Reach me
 
-Here’s how you might present yourself:
+- Email: **paulgreat164@gmail.com**
+- Portfolio: **[ctrlin.com/in/Paul_Great](https://ctrlin.com/in/Paul_Great)**
+- LinkedIn: **[linkedin.com/in/paul-abimbola](https://linkedin.com/in/paul-abimbola)**
 
-🌱 I’m currently learning: Advanced TypeScript, Next.js, and Web3 integration for frontend development.
-💞️ I’m looking to collaborate on: Open-source projects, AI-frontend tools, and innovative startups.
-📫 How to reach me: paulgreat164@gmail.com.
-😄 Pronouns: They/them.Share your preferred pronouns (e.g., he/him, she/her, they/them) to foster inclusivity in your collaborations.
+---
 
-⚡ Fun fact: I once built a fully functional app in 48 hours during a hackathon!
-Here’s a fun fact to showcase your personality:
-
-Did you know the first website ever created is still online? Check it out:https://evolvesinc.org/
-Or, share something personal like: “I once built a fully functional app in 48 hours during a hackathon!”
-
- 
- 
-
+<p align="center"><i>Building in public, one commit at a time.</i></p>
