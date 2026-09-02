@@ -14,14 +14,32 @@
 I'm currently the **Founding Frontend Developer at Hosté Technology**, a Nigerian premium event staffing marketplace, where I build the platform from the ground up. I'm also the **Frontend Developer & Bootcamp Lead at Appclick ICT Academy** in ibadan, where I mentor developers coming up through the program.
 
 I work across the stack — React/Next.js/TypeScript on the frontend, Node.js/Supabase/Firebase/PostgreSQL on the backend — and I spend a lot of time wiring LLMs (Claude, Gemini, OpenRouter, Ollama) into real products rather than demos.
-
 ### 🛠️ Tech I reach for
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui
-**Backend:** Node.js · Supabase · Firebase · PostgreSQL · MongoDB
-**AI/LLM:** Claude · Gemini · OpenRouter · Ollama
-**Tooling:** Cursor · Bolt · Lovable · v0 · Docker · Vercel
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI/LLM**  
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openrouter&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**Tooling**  
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ### 🧩 Some things I've built
 
 - **Matchbox](https://love-map-connection.vercel.app/)** — AI matchmaking platform analyzing 50+ personality traits with neural compatibility scoring
