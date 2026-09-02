@@ -11,7 +11,7 @@
 
 ### 🚀 What I do
 
-I'm currently the **Founding Frontend Developer at Hosté Technology**, a Nigerian premium event staffing marketplace, where I build the platform from the ground up. I'm also the **Frontend Developer & Bootcamp Lead at Appclick Academy** in Abuja, where I mentor developers coming up through the program.
+I'm currently the **Founding Frontend Developer at Hosté Technology**, a Nigerian premium event staffing marketplace, where I build the platform from the ground up. I'm also the **Frontend Developer & Bootcamp Lead at Appclick ICT Academy** in ibadan, where I mentor developers coming up through the program.
 
 I work across the stack — React/Next.js/TypeScript on the frontend, Node.js/Supabase/Firebase/PostgreSQL on the backend — and I spend a lot of time wiring LLMs (Claude, Gemini, OpenRouter, Ollama) into real products rather than demos.
 
@@ -24,7 +24,7 @@ I work across the stack — React/Next.js/TypeScript on the frontend, Node.js/Su
 
 ### 🧩 Some things I've built
 
-- **[CupidAI / Matchbox](https://love-map-connection.vercel.app/)** — AI matchmaking platform analyzing 50+ personality traits with neural compatibility scoring
+- **Matchbox](https://love-map-connection.vercel.app/)** — AI matchmaking platform analyzing 50+ personality traits with neural compatibility scoring
 - **GlowCart** — full-stack e-commerce beauty platform (Next.js, Stripe, Payload CMS)
 - **[Golf Charity Draw Platform](https://my-new-project-six-chi.vercel.app)** — subscription-driven golf tracking + charity fundraising (Bun, React 19, Stripe)
 - **TrustPay Shield** — real-time fraud prevention for mobile money using Nokia CAMARA APIs, built for the Africa Ignite Hackathon
