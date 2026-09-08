@@ -94,21 +94,26 @@ More on my [portfolio →](https://ctrlin.com/in/Paul_Great)
 
 ---
 
----
-
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paul-masingah&show_icons=true&theme=dark&hide_border=true&bg_color=1A1A1A&title_color=EF5A22&icon_color=006837&text_color=FFFFDC" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paul-masingah&layout=compact&theme=dark&hide_border=true&bg_color=1A1A1A&title_color=EF5A22&text_color=FFFFDC" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paul-masingah&show_icons=true&theme=dark&hide_border=true&bg_color=1A1A1A&title_color=EF5A22&icon_color=006837&text_color=FFFFDC" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-masingah&layout=compact&theme=dark&hide_border=true&bg_color=1A1A1A&title_color=EF5A22&text_color=FFFFDC" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-masingah&theme=dark&hide_border=true&background=1A1A1A&ring=EF5A22&fire=EF5A22&currStreakLabel=FFFFDC&currStreakNum=FFFFDC" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Paul-masingah&theme=dark&hide_border=true&background=1A1A1A&ring=EF5A22&fire=EF5A22&currStreakLabel=FFFFDC" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paul-masingah&theme=react-dark&bg_color=1A1A1A&color=FFFFDC&line=EF5A22&point=006837&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Paul-masingah&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
 </p>
 
 ---
-
 
 ### Open to collaborating on
 
