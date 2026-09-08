@@ -102,7 +102,7 @@ More on my [portfolio →](https://ctrlin.com/in/Paul_Great)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-masingah&theme=dark&hide_border=true&background=1A1A1A&ring=EF5A22&fire=EF5A22&currStreakLabel=FFFFDC" />
+  <img src="https://streak-stats.demolab.com/?user=Paul-masingah&theme=dark&hide_border=true&background=1A1A1A&ring=EF5A22&fire=EF5A22&currStreakLabel=FFFFDC" />
 </p>
 
 ---
