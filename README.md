@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:EF5A22,100:006837&height=220&section=header&text=Paul%20Great&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Developer%20%26%20AI%20Practitioner&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:EF5A22,100:006837&height=220&section=header&text=Paul%20Great&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=As%20a%20full%20stack%20developer%20and%20AI%20practitioner&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <p>
   <a href="mailto:paulgreat164@gmail.com"><img src="https://img.shields.io/badge/Email-paulgreat164%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
