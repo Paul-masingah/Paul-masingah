@@ -94,18 +94,21 @@ More on my [portfolio →](https://ctrlin.com/in/Paul_Great)
 
 ---
 
+---
+
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paul-masingah&show_icons=true&theme=dark&hide_border=true&bg_color=1A1A1A&title_color=EF5A22&icon_color=006837&text_color=FFFFDC" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-masingah&layout=compact&theme=dark&hide_border=true&bg_color=1A1A1A&title_color=EF5A22&text_color=FFFFDC" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paul-masingah&show_icons=true&theme=dark&hide_border=true&bg_color=1A1A1A&title_color=EF5A22&icon_color=006837&text_color=FFFFDC" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paul-masingah&layout=compact&theme=dark&hide_border=true&bg_color=1A1A1A&title_color=EF5A22&text_color=FFFFDC" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Paul-masingah&theme=dark&hide_border=true&background=1A1A1A&ring=EF5A22&fire=EF5A22&currStreakLabel=FFFFDC" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-masingah&theme=dark&hide_border=true&background=1A1A1A&ring=EF5A22&fire=EF5A22&currStreakLabel=FFFFDC&currStreakNum=FFFFDC" alt="GitHub Streak" />
 </p>
 
 ---
+
 
 ### Open to collaborating on
 
